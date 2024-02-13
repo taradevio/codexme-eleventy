@@ -1,5 +1,5 @@
 ---
-title: The fifth and hopefully final example post
+title: The fifth and hopefully final post
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.description will be used
   instead.
@@ -10,7 +10,7 @@ tags:
   - environment
   - sport
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 ![A sample inlined image](https://source.unsplash.com/random/600x400)
 
